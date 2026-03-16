@@ -1,7 +1,7 @@
 
 
-AUTHOR          = '<your name>'  # use your name
-SITENAME        = 'title' # use title
+AUTHOR          = 'Vinayak V Kaddi'  # use your name
+SITENAME        = 'My Python Notes' # use title
 GITHUB_USERNAME = 'tactlabs' # use your username
 
 
@@ -12,8 +12,8 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-    ("GitHub", "https://github.com/<yourusername>/"),
-    ("LinkedIn", "<linkedin handle>"),
+    ("GitHub", "https://github.com/vinni1610/"),
+    ("LinkedIn", "https://www.linkedin.com/in/vinayak-kaddi-524a241a2"),
 )
 
 ######## Advanced Settings (not recommended to to edited; take your own risk to touch the settings below) #############
